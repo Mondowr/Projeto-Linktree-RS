@@ -14,9 +14,6 @@ function toggleMode() {
     img.setAttribute("src", "./assets/avatar.png")
   }
 
-  // Chamar a função para definir o modo inicial 
-  setInitialMode();
-
   //if(html.classList.contains('light')) {
   //html.classList.remove('light')
   //} else {
