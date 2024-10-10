@@ -6,8 +6,8 @@
 
 :root {
   --text-color: white;
-  --bg-url: url(./assets/bg-mobile.jpg);
-  --stroke-color: rgba(255, 255, 255, 0.50);
+  --bg-url: url(./assets/bg-mobile.png);
+  --stroke-color: rgba(1, 0, 0, 0.5);
   --surface-color: rgba(255, 255, 255, 0.10);
   --surface-color-hover: rgba(255, 255, 255, 0.05);
   --highlight-color: rgba(255, 255, 255, 0.20);
