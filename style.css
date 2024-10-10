@@ -42,7 +42,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* border: 1px solid red; - bom para ver o comportamento da caixa durante os estagios iniciais */
   margin: 56px auto 0px auto;
   padding: 0 24px;
